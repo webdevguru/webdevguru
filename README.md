@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @webdevguru
 - 👀 I’m interested in practing coding problems and creating project
-- 🌱 I’m currently learning dsa and react
+- 🌱 I’m currently learning dsa and web develpment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
