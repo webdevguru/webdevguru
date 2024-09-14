@@ -6,7 +6,7 @@
    1) sanyalsourav32@gmail.com
    2) https://www.linkedin.com/in/sourav-sanyal-a77352166/
    3) 6295467165
-   follow: https://twitter.com/ChaddaSukdeb
+   follow: https://twitter.com/ChaddaSukdeb.
 
 <!---
 webdevguru/webdevguru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
