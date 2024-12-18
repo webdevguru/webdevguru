@@ -12,34 +12,29 @@
 webdevguru/webdevguru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Technologies I Use
+# My Tech Stack
 
-Here are some of the technologies I work with:
+## MERN Stack
+- ![MongoDB](https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png)
+- ![Express.js](https://raw.githubusercontent.com/github/explore/master/topics/express/express.png)
+- ![React](https://raw.githubusercontent.com/github/explore/master/topics/react/react.png)
+- ![Node.js](https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png)
 
-<p>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="50" style="margin-right: 10px; transition: transform 0.3s;" onclick="this.style.transform='scale(1.2)';" />
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" width="50" style="margin-right: 10px; transition: transform 0.3s;" onclick="this.style.transform='scale(1.2)';" />
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="50" style="margin-right: 10px; transition: transform 0.3s;" onclick="this.style.transform='scale(1.2)';" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="50" style="margin-right: 10px; transition: transform 0.3s;" onclick="this.style.transform='scale(1.2)';" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" width="50" style="margin-right: 10px; transition: transform 0.3s;" onclick="this.style.transform='scale(1.2)';" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" width="50" style="margin-right: 10px; transition: transform 0.3s;" onclick="this.style.transform='scale(1.2)';" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" width="50" style="margin-right: 10px; transition: transform 0.3s;" onclick="this.style.transform='scale(1.2)';" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="50" style="margin-right: 10px; transition: transform 0.3s;" onclick="this.style.transform='scale(1.2)';" />
-  </a>
-</p>
+## Frontend
+- ![HTML](https://raw.githubusercontent.com/github/explore/master/topics/html/html.png)
+- ![CSS](https://raw.githubusercontent.com/github/explore/master/topics/css/css.png)
+- ![JavaScript](https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png)
+- ![TypeScript](https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png)
+- ![Next.js](https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png)
 
+## Backend
+- ![Node.js](https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png)
+- ![Express.js](https://raw.githubusercontent.com/github/explore/master/topics/express/express.png)
+  
+## Databases
+- ![MongoDB](https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png)
+- ![PostgreSQL](https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png)
+
+## UI/UX Design
+- ![Figma](https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png)
+- ![Adobe XD](https://raw.githubusercontent.com/github/explore/master/topics/adobe-xd/adobe-xd.png)
