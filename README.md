@@ -16,11 +16,11 @@ You can click the Preview link to take a look at your changes.
 
 Here are some of the technologies I work with:
 
-![HTML](https://raw.githubusercontent.com/github/explore/master/topics/html/html.png)
-![CSS](https://raw.githubusercontent.com/github/explore/master/topics/css/css.png)
-![JavaScript](https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png)
-![TypeScript](https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png)
-![Node.js](https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png)
-![MongoDB](https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png)
-![Express.js](https://raw.githubusercontent.com/github/explore/master/topics/express/express.png)
-![React](https://raw.githubusercontent.com/github/explore/master/topics/react/react.png)
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="50" />
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" width="50" />
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="50" />
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="50" />
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" width="50" />
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" width="50" />
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" width="50" />
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="50" />
