@@ -12,3 +12,15 @@
 webdevguru/webdevguru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# Technologies I Use
+
+Here are some of the technologies I work with:
+
+![HTML](https://raw.githubusercontent.com/github/explore/master/topics/html/html.png)
+![CSS](https://raw.githubusercontent.com/github/explore/master/topics/css/css.png)
+![JavaScript](https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png)
+![TypeScript](https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png)
+![Node.js](https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png)
+![MongoDB](https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png)
+![Express.js](https://raw.githubusercontent.com/github/explore/master/topics/express/express.png)
+![React](https://raw.githubusercontent.com/github/explore/master/topics/react/react.png)
