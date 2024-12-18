@@ -42,10 +42,5 @@
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" width="50" class="transition-transform duration-300 hover:scale-110 hover:rotate-12" />
 </p>
 
-<!-- Bootstrap CSS CDN -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
-
-<!-- Tailwind CSS CDN -->
-<link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1.2/dist/tailwind.min.css" rel="stylesheet">
 
 
