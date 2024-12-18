@@ -52,14 +52,14 @@ You can click the Preview link to take a look at your changes.
 <!-- Additional CSS for Click Animation -->
 <style>
   .logo {
-    transition: transform 0.3s ease-in-out;
+    transition: transform 0.3s ease-in-out; /* Smooth transition for scaling */
   }
 
   .logo:active {
-    transform: scale(1.5) rotate(0deg); /* Enlarge the logo when clicked */
+    transform: scale(1.5); /* Grow the logo when clicked */
   }
 
   .logo:hover {
-    transform: scale(1.1) rotate(12deg); /* Slightly grow and rotate on hover */
+    transform: scale(1.1) rotate(12deg); /* Grow and rotate on hover */
   }
 </style>
