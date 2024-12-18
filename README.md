@@ -29,6 +29,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="50" class="transition-transform duration-300 hover:scale-110 hover:rotate-12" />
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" width="50" class="transition-transform duration-300 hover:scale-110 hover:rotate-12" />
 </p>
+ <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="50" class="transition-transform duration-300 hover:scale-110 hover:rotate-12" />
 
 ## Backend
 <p class="d-flex gap-3">
