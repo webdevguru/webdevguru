@@ -19,18 +19,16 @@
 </p>
 
 ## Frontend
-<p class="d-flex gap-3">
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="50" class="transition-transform duration-300 hover:scale-110 hover:rotate-12" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" width="50" class="transition-transform duration-300 hover:scale-110 hover:rotate-12" />
-    <img src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" width="50" class="transition-transform duration-300 hover:scale-110 hover:rotate-12" />
-     <img src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" width="50" class="transition-transform duration-300 hover:scale-110 hover:rotate-12" />
+<p class="d-flex gap-3 justify-content-center">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="50" class="transition-transform duration-300 hover:scale-110 hover:rotate-12 active:scale-150" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" width="50" class="transition-transform duration-300 hover:scale-110 hover:rotate-12 active:scale-150" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" width="50" class="transition-transform duration-300 hover:scale-110 hover:rotate-12 active:scale-150" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" width="50" class="transition-transform duration-300 hover:scale-110 hover:rotate-12 active:scale-150" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="50" class="transition-transform duration-300 hover:scale-110 hover:rotate-12 active:scale-150" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="50" class="transition-transform duration-300 hover:scale-110 hover:rotate-12 active:scale-150" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" width="50" class="transition-transform duration-300 hover:scale-110 hover:rotate-12 active:scale-150" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="50" class="transition-transform duration-300 hover:scale-110 hover:rotate-12 active:scale-150" />
 </p>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="50" class="transition-transform duration-300 hover:scale-110 hover:rotate-12" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="50" class="transition-transform duration-300 hover:scale-110 hover:rotate-12" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" width="50" class="transition-transform duration-300 hover:scale-110 hover:rotate-12" />
-   <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="50" class="transition-transform duration-300 hover:scale-110 hover:rotate-12" />
-</p>
-
 
 ## Backend
 <p class="d-flex gap-3">
