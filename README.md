@@ -17,13 +17,29 @@ You can click the Preview link to take a look at your changes.
 Here are some of the technologies I work with:
 
 <p>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="50" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" width="50" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="50" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="50" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" width="50" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" width="50" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" width="50" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="50" style="margin-right: 10px;" />
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="50" style="margin-right: 10px; transition: transform 0.3s;" onclick="this.style.transform='scale(1.2)';" />
+  </a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" width="50" style="margin-right: 10px; transition: transform 0.3s;" onclick="this.style.transform='scale(1.2)';" />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="50" style="margin-right: 10px; transition: transform 0.3s;" onclick="this.style.transform='scale(1.2)';" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="50" style="margin-right: 10px; transition: transform 0.3s;" onclick="this.style.transform='scale(1.2)';" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" width="50" style="margin-right: 10px; transition: transform 0.3s;" onclick="this.style.transform='scale(1.2)';" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" width="50" style="margin-right: 10px; transition: transform 0.3s;" onclick="this.style.transform='scale(1.2)';" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" width="50" style="margin-right: 10px; transition: transform 0.3s;" onclick="this.style.transform='scale(1.2)';" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="50" style="margin-right: 10px; transition: transform 0.3s;" onclick="this.style.transform='scale(1.2)';" />
+  </a>
 </p>
 
