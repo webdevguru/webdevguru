@@ -15,26 +15,36 @@ You can click the Preview link to take a look at your changes.
 # My Tech Stack
 
 ## MERN Stack
-- ![MongoDB](https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png)
-- ![Express.js](https://raw.githubusercontent.com/github/explore/master/topics/express/express.png)
-- ![React](https://raw.githubusercontent.com/github/explore/master/topics/react/react.png)
-- ![Node.js](https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png)
+<p class="flex space-x-4">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
+</p>
 
 ## Frontend
-- ![HTML](https://raw.githubusercontent.com/github/explore/master/topics/html/html.png)
-- ![CSS](https://raw.githubusercontent.com/github/explore/master/topics/css/css.png)
-- ![JavaScript](https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png)
-- ![TypeScript](https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png)
-- ![Next.js](https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png)
+<p class="flex space-x-4">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
+</p>
 
 ## Backend
-- ![Node.js](https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png)
-- ![Express.js](https://raw.githubusercontent.com/github/explore/master/topics/express/express.png)
-  
-## Databases
-- ![MongoDB](https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png)
-- ![PostgreSQL](https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png)
+<p class="flex space-x-4">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
+</p>
 
-## UI/UX Design
-- ![Figma](https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png)
-- ![Adobe XD](https://raw.githubusercontent.com/github/explore/master/topics/adobe-xd/adobe-xd.png)
+## Tools & Other
+<p class="flex space-x-4">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
+</p>
+
+<!-- Bootstrap CSS CDN -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Tailwind CSS CDN -->
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1.2/dist/tailwind.min.css" rel="stylesheet">
