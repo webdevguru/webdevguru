@@ -15,36 +15,51 @@ You can click the Preview link to take a look at your changes.
 # My Tech Stack
 
 ## MERN Stack
-<p class="flex space-x-4">
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
+<p class="d-flex gap-3">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" width="50" class="logo transition-transform duration-300 hover:scale-110 hover:rotate-12" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" width="50" class="logo transition-transform duration-300 hover:scale-110 hover:rotate-12" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="50" class="logo transition-transform duration-300 hover:scale-110 hover:rotate-12" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" width="50" class="logo transition-transform duration-300 hover:scale-110 hover:rotate-12" />
 </p>
 
 ## Frontend
-<p class="flex space-x-4">
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
+<p class="d-flex gap-3">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="50" class="logo transition-transform duration-300 hover:scale-110 hover:rotate-12" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" width="50" class="logo transition-transform duration-300 hover:scale-110 hover:rotate-12" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="50" class="logo transition-transform duration-300 hover:scale-110 hover:rotate-12" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="50" class="logo transition-transform duration-300 hover:scale-110 hover:rotate-12" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" width="50" class="logo transition-transform duration-300 hover:scale-110 hover:rotate-12" />
 </p>
 
 ## Backend
-<p class="flex space-x-4">
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
+<p class="d-flex gap-3">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" width="50" class="logo transition-transform duration-300 hover:scale-110 hover:rotate-12" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" width="50" class="logo transition-transform duration-300 hover:scale-110 hover:rotate-12" />
 </p>
 
 ## Tools & Other
-<p class="flex space-x-4">
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" width="35" class="transition-transform duration-300 hover:scale-125 hover:rotate-12" />
+<p class="d-flex gap-3">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="50" class="logo transition-transform duration-300 hover:scale-110 hover:rotate-12" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" width="50" class="logo transition-transform duration-300 hover:scale-110 hover:rotate-12" />
 </p>
 
-<!-- Add Tailwind CSS CDN -->
+<!-- Bootstrap CSS CDN -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Tailwind CSS CDN -->
 <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1.2/dist/tailwind.min.css" rel="stylesheet">
 
-<!-- Add Bootstrap CSS CDN -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+<!-- Additional CSS for Click Animation -->
+<style>
+  .logo {
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .logo:active {
+    transform: scale(1.5) rotate(0deg); /* Enlarge the logo when clicked */
+  }
+
+  .logo:hover {
+    transform: scale(1.1) rotate(12deg); /* Slightly grow and rotate on hover */
+  }
+</style>
