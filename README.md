@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @webdevguru  who is a Full Stack Web Developer trying to keep up with the rapidly evolving Industry.
+-- 👋 Hi, I’m @webdevguru  who is a Full Stack Web Developer trying to keep up with the rapidly evolving Industry.
 - 👀 I’m interested in practing coding problems and creating project
 - 🌱 I’m currently learning dsa and web develpment
 - 💞️ I’m looking to collaborate on  
